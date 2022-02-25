@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the victory gain'd by the imperialists and Polanders near Burkan, right over-against Strigonia, called Gran, the 9th of October New Stile, 1683</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58464</idno>
+            <idno type="STC">Wing R885A</idno>
+            <idno type="STC">ESTC R33521</idno>
+            <idno type="EEBO-CITATION">13470812</idno>
+            <idno type="OCLC">ocm 13470812</idno>
+            <idno type="VID">99689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1555:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the victory gain'd by the imperialists and Polanders near Burkan, right over-against Strigonia, called Gran, the 9th of October New Stile, 1683</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIII [1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Austro-Turkish War, 1683-1699.</term>
+               <term>Turco-Polish Wars, 1683-1699.</term>
+               <term>Austria --  History --  Leopold I, 1657-1705.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:99689:1"/>
+            <!-- PDF PAGE 16 -->
+            <head>A RELATION of the VICTORY Gain'd by the <hi>Imperialiſts</hi> and <hi>Polanders</hi> near <hi>Burkan,</hi> right over-againſt <hi>Strigonia,</hi> called <hi>Gran,</hi> 
+               <date>the <hi>9th</hi> of <hi>October</hi> New Stile 1683.</date>
+            </head>
+            <p>THE <hi>Emperour's</hi> and the <hi>Polonian</hi> Armies, under the Command of His Majeſty of <hi>Poland,</hi> and His Highneſs the Duke of <hi>Lorrain,</hi> being march'd into <hi>Hungary,</hi> after having paſt the <hi>Danube</hi> upon a Bridge of Boats, made at <hi>Wiſar</hi> near <hi>Comorra,</hi> the King of <hi>Poland</hi> would march to Attack a Fort called <hi>Burkan,</hi> which covers the head of the Bridge of <hi>Strigonia,</hi> called <hi>Gran:</hi> He marched on the <hi>7th.</hi> inſtant, with ſo much diligence, that his Army was near a League and a half before the <hi>Emperours,</hi> and even the Duke of <hi>Lorrain</hi> knew not that he was ſo far advanced. His Highneſs Marched on<g ref="char:EOLhyphen"/>ly with the <hi>Cavalry,</hi> for the <hi>Infantry</hi> were ſix Leagues behind; The <hi>Imperia<g ref="char:EOLhyphen"/>liſts</hi> had not marched a League, when the King of <hi>Poland</hi> ſent in all haſt, to deſire His Highneſs to come up without loſing time, and to Advertiſe him that he was at Blows with the Enemies: Whereupon His Highneſs marched with what haſt he could, but the diſtance that was between the King and the <hi>Imperialiſts,</hi> cauſed the loſs of ſome time. As ſoon as the Duke of <hi>Lorrain</hi> arrived with the foremoſt Squadrons of his Troops, the <hi>Polanders</hi> retreated to joyn him, that ſo they might avoid a greater diſorder than that which they began to be in. The meddley was hot; the King was in ſome danger; Prince <hi>Alexander</hi> his Son, advancing as far as any, had is Horſe kill'd under him; a <hi>Palatine</hi> and ſome others alſo were killed. As ſoon as the <hi>Turks</hi> ſaw the <hi>Chriſtian</hi> Army in Batalia, they Retreated.</p>
+            <p>The <hi>Polanders</hi> this day gave the right hand to the <hi>Imperialiſts.</hi> The King of <hi>Poland,</hi> who had cauſed his Dragoons to alight, thought to attack the For<g ref="char:EOLhyphen"/>treſs of <hi>Burkan,</hi> and to carry it by aſſault. The Enemies immediately Salli<g ref="char:EOLhyphen"/>ed from behind their Re-intrenchements in ſmall Troops, to draw on the <hi>Chriſtians,</hi> who immediately repulſed the <hi>Turks,</hi> and made them retreat, which they did only to amuſe the <hi>Chriſtians;</hi> for in the mean time they cau<g ref="char:EOLhyphen"/>ſed 5 or 6000 <hi>Janiſaries</hi> to creep along a Hill without being perceive; Theſe fell upon the Flank of the <hi>Poles,</hi> and entertain'd them ſo ill, that they were put to confuſion, and loſt more than 1000 men in this Encounter; and the Regiment of the Great Marſhal <hi>Jablouniski</hi> was the worſt treated. But the Enemies being again aſſaulted by the <hi>Polonian</hi> and <hi>German Dragoons,</hi> re<g ref="char:EOLhyphen"/>treated with loſs. This day being the <hi>8th.</hi> the <hi>Infantry</hi> are expected, and to morrow they intend to aſſault the Fort of <hi>Burkan,</hi> which will not paſs with<g ref="char:EOLhyphen"/>out Fighting.</p>
+            <closer>God preſerve the King, and His Highneſs. <dateline>From the Camp before <hi>Strigonia,</hi> called Gran,<date>the <hi>9th.</hi> of <hi>October,</hi> 1683.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <opener>
+               <dateline>From <hi>Sints</hi> 
+                  <date>the <hi>13th.</hi> of <hi>October New Sile, 1683.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <head>The Poſtſcript of a Letter from the Marqueſs <hi>de Borgomayne,</hi> Embaſſador Extraordinary from <hi>Spain</hi> at the Imperial Court, to His Excellency the Marqueſs <hi>de Grana, &amp;c.</hi> arri<g ref="char:EOLhyphen"/>ved at <hi>Bruſſels</hi> 
+               <date>the <hi>20th</hi> of this month <hi>New Stile,</hi>
+               </date> by a <hi>Courier</hi> Extraordinary.</head>
+            <p>IN this moment, being 12 of the Clock at night, the Count of <hi>Sambarg</hi> arrived here, ſent by his Highneſs the Duke of <hi>Lorrain,</hi> with News that the <hi>Chriſtian</hi> Army had been in Action with 10000 <hi>Turks,</hi> of whom the greateſt part were cut in pieces, excepting a ſmall rumber, who at firſt found means of paſſing the <hi>Danube</hi> over the Bridge of <hi>Bur<g ref="char:EOLhyphen"/>kan;</hi> which being afterwards broke down, deprived the Enemies of the conveniency of ſeeking their ſafety by Flying that way. They were all killed; ſome caſt themſelves into the River and were drowned; and 800 Priſoners were taken: Among the laſt, was the <hi>Baſsa</hi> of <hi>Silistria;</hi> and among the dead, the New <hi>Baſſa</hi> of <hi>Buda,</hi> and that of <hi>Aleppo. Burkan</hi> was preſently yielded up, on Diſcretion; and with this advantage the King of <hi>Poland</hi> reſolved to aſſault <hi>Strigonia,</hi> called <hi>Gran;</hi> and according to all ap<g ref="char:EOLhyphen"/>pearance it will not be long before they become Maſters of it, and then proceed to further Conqueſts.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> C.W. MCDLXXXIII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
